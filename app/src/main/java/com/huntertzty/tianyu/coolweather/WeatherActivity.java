@@ -23,6 +23,7 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 import com.huntertzty.tianyu.coolweather.gson.Forecast;
 import com.huntertzty.tianyu.coolweather.gson.Weather;
+import com.huntertzty.tianyu.coolweather.service.AutoUpdateService;
 import com.huntertzty.tianyu.coolweather.util.HttpUtil;
 import com.huntertzty.tianyu.coolweather.util.Utility;
 
